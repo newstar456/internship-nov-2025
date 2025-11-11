@@ -34,3 +34,4 @@ Keep the project extremely minimal and simple with realistic milestones for the 
 |--------|-----------|-----------------------------------------------|
 | Andrii | Rogovskyi | https://www.linkedin.com/in/andrii-rogovskyi/
 |Mumba     Patrick     https://www.linkedin.com/in/mumba-patrick-7211862b5/
+| Kidus | Messele | https://www.linkedin.com/in/kidusmessele1343/
